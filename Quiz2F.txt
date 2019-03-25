@@ -1,0 +1,14 @@
+Why is the system unit not working properly?
+
+Observation:
+	
+	The fuse of the power supply was blown resulting to failure 
+for us to check other parts especially the motherboard. The CPU fan
+is functional but we observed that the system unit is dusty and the 
+cables are old enough to break anytime.
+
+Solution:
+	We recommend:
+		-  Buy new fuse of the power supply.
+		-  Buy new power supply.
+		-  Buy a new set of system unit.

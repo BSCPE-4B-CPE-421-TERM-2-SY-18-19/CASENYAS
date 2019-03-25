@@ -1,0 +1,10 @@
+Why is raspberry pi working properly?
+
+	The raspberry pi is working properly because there's operating
+system installed. Other factors are the cables that being used are fun-
+ctional and they're connected properly and securely.
+
+	The raspberry pie received the exact power needed to operate.
+
+*These answers were all according to our classmates who already did this research.
+Site: elinux.org/R-Pi-Troubleshooting
